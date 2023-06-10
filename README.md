@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-## This project aims to develop an AI-powered system that recommends personalized recipes to users based on their dietary preferences, ingredient availability, and nutritional requirements.
+This project aims to develop an AI-powered system that recommends personalized recipes to users based on their dietary preferences, ingredient availability, and nutritional requirements.
 
 ## Background
 
